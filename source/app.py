@@ -6,7 +6,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 from TMD import Forecaster
-import clock_app_layout as cl
+import clock_layout as cl
 
 # -- variables
 _cond_ = {1:'clear.png',2:'partly_cloudy.png',3:'cloudy.png',4:'overcast.png',5:'light_rain.png',6:'moderate_rain.png',
