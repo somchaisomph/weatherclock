@@ -1,1 +1,1 @@
-# weatherclock
+# Clock with weather forecast
